@@ -1,2 +1,14 @@
 **/target/
 **/.DS_Store
+
+# Java Files
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+**/bin/
+**/target/
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/.classpath

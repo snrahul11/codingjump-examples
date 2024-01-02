@@ -1,6 +1,1 @@
-{
-    "maven.terminal.useJavaHome": true,
-    "java.jdt.ls.java.home": "/usr/lib/jvm/msopenjdk-current",
-    "spring-boot.ls.java.home": "/usr/lib/jvm/msopenjdk-current",
-    "java.configuration.updateBuildConfiguration": "automatic",
-}
+{}
